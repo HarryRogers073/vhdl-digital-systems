@@ -9,6 +9,13 @@
 
 ---
 
+### 📜 Academic Integrity & Attribution Disclosure
+- **Author & RTL Design:** Authored and verified by **Harry Rogers** for the Digital Systems Design module at the University of Brighton, achieving an **84% Distinction Grade (A+)**.
+- **Standards & EDA Environments:** RTL architectures conform to IEEE 1076-1993 standard VHDL packages (`ieee.std_logic_1164.all`, `ieee.numeric_std.all`). Compilation, logic synthesis, and timing simulations were performed using **Intel Quartus Prime** and **ModelSim-Intel FPGA Starter Edition**.
+- **Hardware Targets:** Pin assignments, I/O standards, and 50 MHz clock oscillator constraints reference Altera/Intel Cyclone II / DE2 development board specifications.
+
+---
+
 ## 🎯 Flagship Design: Multi-Floor Elevator Controller FSM (`elevator_fsm/`)
 
 The primary component is a multi-floor elevator control system featuring an intelligent request arbitration queue, safety interlocks, and door timing state machines:
