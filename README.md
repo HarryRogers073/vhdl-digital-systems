@@ -5,12 +5,12 @@
 [![Grade](https://img.shields.io/badge/Module%20Grade-84%25%20(A%2B)-success?style=for-the-badge)](https://www.harry-rogers.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-> A modular digital logic and FPGA hardware description library written in **IEEE standard VHDL**. Developed for the **Digital Systems Design** module at the **University of Brighton** (Grade: **84% Distinction / A+**). Implements synchronous finite state machines (FSMs), priority request queues, arithmetic sub-units (adders, multipliers, comparators), sequential shift registers, and seven-segment hexadecimal display decoders verified in **Intel Quartus Prime** and **ModelSim**.
+> A modular digital logic and FPGA hardware description library written in **IEEE standard VHDL**. Developed for the **Digital Systems Design** curriculum at the **University of Brighton** (Grade: **84% Distinction / A+**). Implements synchronous finite state machines (FSMs), priority request queues, arithmetic sub-units (adders, multipliers, comparators), sequential shift registers, and seven-segment hexadecimal display decoders verified in **Intel Quartus Prime** and **ModelSim**.
 
 ---
 
 ### 📜 Academic Integrity & Attribution Disclosure
-- **Author & RTL Design:** Authored and verified by **Harry Rogers** for the Digital Systems Design module at the University of Brighton, achieving an **84% Distinction Grade (A+)**.
+- **Author & RTL Design:** Authored and verified by **Harry Rogers** for Digital Systems Design coursework at the University of Brighton, achieving an **84% Distinction Grade (A+)**.
 - **Standards & EDA Environments:** RTL architectures conform to IEEE 1076-1993 standard VHDL packages (`ieee.std_logic_1164.all`, `ieee.numeric_std.all`). Compilation, logic synthesis, and timing simulations were performed using **Intel Quartus Prime** and **ModelSim-Intel FPGA Starter Edition**.
 - **Hardware Targets:** Pin assignments, I/O standards, and 50 MHz clock oscillator constraints reference Altera/Intel Cyclone II / DE2 development board specifications.
 
