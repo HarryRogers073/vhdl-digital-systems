@@ -108,8 +108,9 @@ vhdl-digital-systems/
 - **Author:** Harry Rogers
 - **Degree:** BEng (Hons) Electronic & Computer Engineering (First-Class Honours)
 - **Institution:** University of Brighton
-- **Module:** Digital Systems Design (Grade: 84% / A+)
+- **Curriculum:** Digital Systems Design (Grade: 84% / A+)
 - **Portfolio:** [www.harry-rogers.com](https://www.harry-rogers.com)
+- **LinkedIn:** [linkedin.com/in/harryrogers073](https://www.linkedin.com/in/harryrogers073/)
 
 ---
 
