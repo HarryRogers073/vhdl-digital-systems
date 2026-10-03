@@ -1,0 +1,20 @@
+﻿# Quartus temporary and compilation files
+db/
+incremental_db/
+output_files/
+simulation/
+*.rpt
+*.done
+*.summary
+*.qws
+*.qpf.bak
+*.qsf.bak
+
+# ModelSim
+work/
+transcript
+*.wlf
+
+# OS
+.DS_Store
+Thumbs.db
