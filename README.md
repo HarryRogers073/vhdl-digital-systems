@@ -2,10 +2,10 @@
 
 [![Language](https://img.shields.io/badge/Language-VHDL-purple?style=for-the-badge&logo=vhdl)](https://github.com/HarryRogers073/vhdl-digital-systems)
 [![EDA](https://img.shields.io/badge/EDA-Intel%20Quartus%20Prime%20%7C%20ModelSim-blue?style=for-the-badge&logo=intel)](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html)
-[![Grade](https://img.shields.io/badge/Module%20Grade-84%25%20(A%2B)-success?style=for-the-badge)](https://www.harry-rogers.com)
+[![Grade](https://img.shields.io/badge/Module%20Grade-First%20Class%2084%25%20(A%2B)-success?style=for-the-badge)](https://www.harry-rogers.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-> A modular digital logic and FPGA hardware description library written in **IEEE standard VHDL** for the **Digital Systems Design** module at the **University of Brighton** (Grade: **84% Distinction / A+**). It includes a synchronous multi-floor elevator controller state machine with request queuing, arithmetic circuits (multipliers, comparators, adders, subtractors), sequential logic, and seven-segment hexadecimal display decoders verified in **Intel Quartus Prime** and **ModelSim**.
+> A modular digital logic and FPGA hardware description library written in **IEEE standard VHDL** for the **Digital Systems Design** module at the **University of Brighton** (Grade: **First Class 84% / A+**). It includes a synchronous multi-floor elevator controller state machine with request queuing, arithmetic circuits (multipliers, comparators, adders, subtractors), sequential logic, and seven-segment hexadecimal display decoders verified in **Intel Quartus Prime** and **ModelSim**.
 
 ---
 
@@ -104,9 +104,9 @@ vhdl-digital-systems/
 ## Academic Information & Author
 
 - **Author:** Harry Rogers
-- **Degree:** BEng (Hons) Electronic & Computer Engineering (First-Class Honours)
+- **Degree:** BEng (Hons) Electronic & Computer Engineering (First Class 80%)
 - **Institution:** University of Brighton
-- **Module:** Digital Systems Design (Grade: 84% / A+)
+- **Module:** Digital Systems Design (First Class 84% / A+)
 - **Website:** [www.harry-rogers.com](https://www.harry-rogers.com)
 - **LinkedIn:** [linkedin.com/in/harryrogers073](https://www.linkedin.com/in/harryrogers073/)
 
