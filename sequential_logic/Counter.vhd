@@ -1,3 +1,8 @@
+--------------------------------------------------------------------------------
+-- University of Brighton Coursework Reference Module
+-- Designer:      Chris Knight
+-- Context:       Digital Systems Design Lab Material
+--------------------------------------------------------------------------------
 -- VHDL implementation of a synchronous  
 --	2-bit binary up-counter with a  
 --	synchronous clear input

@@ -1,3 +1,11 @@
+--------------------------------------------------------------------------------
+-- Module Name:   CounterTB.vhd
+-- Description:   Behavioral simulation testbench for binary counter
+-- Author:        Harry Rogers (University of Brighton)
+-- Date:          2022
+-- Target Board:  Altera DE2 / Cyclone FPGA
+--------------------------------------------------------------------------------
+
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

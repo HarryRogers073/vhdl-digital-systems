@@ -1,3 +1,11 @@
+--------------------------------------------------------------------------------
+-- Module Name:   clock_div1.vhd
+-- Description:   Integer clock prescaler (50 MHz down to 1 Hz)
+-- Author:        Harry Rogers (University of Brighton)
+-- Date:          2022
+-- Target Board:  Altera DE2 / Cyclone FPGA
+--------------------------------------------------------------------------------
+
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

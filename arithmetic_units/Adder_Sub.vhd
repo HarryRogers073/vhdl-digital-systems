@@ -1,3 +1,8 @@
+--------------------------------------------------------------------------------
+-- University of Brighton Coursework Reference Module
+-- Designer:      Chris Knight
+-- Context:       Digital Systems Design Lab Material
+--------------------------------------------------------------------------------
 -- 	VHDL implementation of an 
 -- 	adder-subtractor using
 -- 	components

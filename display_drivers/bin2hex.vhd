@@ -1,3 +1,11 @@
+--------------------------------------------------------------------------------
+-- Module Name:   bin2hex.vhd
+-- Description:   4-bit binary to 7-segment hex display decoder
+-- Author:        Harry Rogers (University of Brighton)
+-- Date:          2022
+-- Target Board:  Altera DE2 / Cyclone FPGA
+--------------------------------------------------------------------------------
+
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

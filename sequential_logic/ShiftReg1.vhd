@@ -1,3 +1,8 @@
+--------------------------------------------------------------------------------
+-- University of Brighton Coursework Reference Module
+-- Designer:      Chris Knight
+-- Context:       Digital Systems Design Lab Material
+--------------------------------------------------------------------------------
 -- 	VHDL implementation of a simple parallel
 --	in, serial out 4-bit shift register.
 --	Shift direction – right (lsb first)

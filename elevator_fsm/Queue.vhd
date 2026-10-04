@@ -1,3 +1,11 @@
+--------------------------------------------------------------------------------
+-- Module Name:   Queue.vhd
+-- Description:   Synchronous request register queue for elevator button calls
+-- Author:        Harry Rogers (University of Brighton)
+-- Date:          2022
+-- Target Board:  Altera DE2 / Cyclone FPGA
+--------------------------------------------------------------------------------
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;

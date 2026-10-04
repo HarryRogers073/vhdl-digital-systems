@@ -1,3 +1,11 @@
+--------------------------------------------------------------------------------
+-- Module Name:   Lift.vhd
+-- Description:   Multi-floor elevator finite state machine (FSM) controller
+-- Author:        Harry Rogers (University of Brighton)
+-- Date:          2022
+-- Target Board:  Altera DE2 / Cyclone FPGA
+--------------------------------------------------------------------------------
+
 library ieee;  -- Include the IEEE library for standard logic definitions
 use ieee.std_logic_1164.all;  -- Use the standard logic package for logic types
 use ieee.numeric_std.all;  -- Use the numeric standard package for numeric types
