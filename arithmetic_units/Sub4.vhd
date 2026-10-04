@@ -1,9 +1,8 @@
 --------------------------------------------------------------------------------
--- Module Name:   Sub4.vhd
--- Description:   4-bit binary subtractor
--- Author:        Harry Rogers (University of Brighton)
--- Date:          2022
--- Target Board:  Altera DE2 / Cyclone FPGA
+-- File:         Sub4.vhd
+-- Written by:   Harry Rogers
+-- Date:         November 2022
+-- Description:  4-bit dedicated binary subtractor
 --------------------------------------------------------------------------------
 
 library ieee;

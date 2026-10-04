@@ -1,9 +1,8 @@
 --------------------------------------------------------------------------------
--- Module Name:   Queue.vhd
--- Description:   Synchronous request register queue for elevator button calls
--- Author:        Harry Rogers (University of Brighton)
--- Date:          2022
--- Target Board:  Altera DE2 / Cyclone FPGA
+-- File:         Queue.vhd
+-- Written by:   Harry Rogers
+-- Date:         December 2022
+-- Description:  Synchronous request register queue latching floor call button events
 --------------------------------------------------------------------------------
 
 library IEEE;

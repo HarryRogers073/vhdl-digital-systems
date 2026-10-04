@@ -1,9 +1,8 @@
 --------------------------------------------------------------------------------
--- Module Name:   bitMultip.vhd
--- Description:   2-bit combinational binary multiplier
--- Author:        Harry Rogers (University of Brighton)
--- Date:          2022
--- Target Board:  Altera DE2 / Cyclone FPGA
+-- File:         bitMultip.vhd
+-- Written by:   Harry Rogers
+-- Date:         November 2022
+-- Description:  2-bit combinational binary multiplier array
 --------------------------------------------------------------------------------
 
 library IEEE;

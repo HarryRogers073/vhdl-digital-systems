@@ -1,9 +1,8 @@
 --------------------------------------------------------------------------------
--- Module Name:   doors_but_better.vhd
--- Description:   Timed elevator door controller with safety pause
--- Author:        Harry Rogers (University of Brighton)
--- Date:          2022
--- Target Board:  Altera DE2 / Cyclone FPGA
+-- File:         doors_but_better.vhd
+-- Written by:   Harry Rogers
+-- Date:         December 2022
+-- Description:  Timed elevator door controller with obstacle detection and safety pause
 --------------------------------------------------------------------------------
 
 library IEEE;

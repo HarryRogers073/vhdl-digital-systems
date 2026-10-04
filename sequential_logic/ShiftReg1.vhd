@@ -1,17 +1,9 @@
 --------------------------------------------------------------------------------
--- University of Brighton Coursework Reference Module
--- Designer:      Chris Knight
--- Context:       Digital Systems Design Lab Material
+-- File:         ShiftReg1.vhd
+-- Written by:   Chris Knight (University Coursework Reference, Verified by Harry Rogers)
+-- Date:         07 March 2012
+-- Description:  4-bit parallel-in serial-out shift register reference implementation
 --------------------------------------------------------------------------------
--- 	VHDL implementation of a simple parallel
---	in, serial out 4-bit shift register.
---	Shift direction – right (lsb first)
-
--- 	Title:			ShiftReg1.vhd
---	Designer:		Chris Knight
---	Date:			07 March 2012
---	Version No:		1
---	Target			DE2 Board - EP4CE115F29C7 
 
 library ieee;
 use ieee.std_logic_1164.all;

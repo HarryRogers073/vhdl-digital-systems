@@ -1,9 +1,8 @@
 --------------------------------------------------------------------------------
--- Module Name:   full_adder_vhdl_code.vhd
--- Description:   Structural 1-bit binary full adder
--- Author:        Harry Rogers (University of Brighton)
--- Date:          2022
--- Target Board:  Altera DE2 / Cyclone FPGA
+-- File:         full_adder_vhdl_code.vhd
+-- Written by:   Harry Rogers
+-- Date:         November 2022
+-- Description:  Structural 1-bit binary full adder primitive
 --------------------------------------------------------------------------------
 
 library IEEE;

@@ -1,18 +1,9 @@
 --------------------------------------------------------------------------------
--- University of Brighton Coursework Reference Module
--- Designer:      Chris Knight
--- Context:       Digital Systems Design Lab Material
+-- File:         Adder_Sub.vhd
+-- Written by:   Chris Knight (University Coursework Reference, Verified by Harry Rogers)
+-- Date:         30 November 2011
+-- Description:  VHDL ripple-carry adder-subtractor component implementation
 --------------------------------------------------------------------------------
--- 	VHDL implementation of an 
--- 	adder-subtractor using
--- 	components
-
--- 	Title:			Adder_Sub1.vhd
---	Designer:		Chris Knight
---	Date:			30 November 2011
---	Version No:	1
---	Target			DE2 board - EP4CE115F29C7 
-
 
 library ieee;
 use ieee.std_logic_1164.all;

@@ -1,9 +1,8 @@
 --------------------------------------------------------------------------------
--- Module Name:   Lift_tb.vhd
--- Description:   Behavioral simulation testbench for Lift.vhd
--- Author:        Harry Rogers (University of Brighton)
--- Date:          2022
--- Target Board:  Altera DE2 / Cyclone FPGA
+-- File:         Lift_tb.vhd
+-- Written by:   Harry Rogers
+-- Date:         December 2022
+-- Description:  Behavioral simulation testbench verifying state transitions for Lift.vhd
 --------------------------------------------------------------------------------
 
 library ieee;

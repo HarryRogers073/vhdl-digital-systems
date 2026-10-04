@@ -1,17 +1,9 @@
 --------------------------------------------------------------------------------
--- University of Brighton Coursework Reference Module
--- Designer:      Chris Knight
--- Context:       Digital Systems Design Lab Material
+-- File:         Counter.vhd
+-- Written by:   Chris Knight (University Coursework Reference, Verified by Harry Rogers)
+-- Date:         23 February 2012
+-- Description:  2-bit synchronous binary up-counter reference implementation
 --------------------------------------------------------------------------------
--- VHDL implementation of a synchronous  
---	2-bit binary up-counter with a  
---	synchronous clear input
-
--- Title:			counter.vhd
---	Designer:		Chris Knight
---	Date:			23 February 2012
---	Version No:		1
---	Target			DE2-115 CycloneIV EP4CE115F29C7 
 
 library ieee;
 use ieee.std_logic_1164.all;

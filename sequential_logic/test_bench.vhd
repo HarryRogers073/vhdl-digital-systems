@@ -1,9 +1,8 @@
 --------------------------------------------------------------------------------
--- Module Name:   test_bench.vhd
--- Description:   Behavioral simulation testbench for shift register
--- Author:        Harry Rogers (University of Brighton)
--- Date:          2022
--- Target Board:  Altera DE2 / Cyclone FPGA
+-- File:         test_bench.vhd
+-- Written by:   Harry Rogers
+-- Date:         November 2022
+-- Description:  Behavioral simulation testbench for shift register
 --------------------------------------------------------------------------------
 
 library ieee;

@@ -1,9 +1,8 @@
 --------------------------------------------------------------------------------
--- Module Name:   clock_div1.vhd
--- Description:   Integer clock prescaler (50 MHz down to 1 Hz)
--- Author:        Harry Rogers (University of Brighton)
--- Date:          2022
--- Target Board:  Altera DE2 / Cyclone FPGA
+-- File:         clock_div1.vhd
+-- Written by:   Harry Rogers
+-- Date:         November 2022
+-- Description:  Integer clock prescaler divider (50 MHz down to 1 Hz)
 --------------------------------------------------------------------------------
 
 library ieee;
