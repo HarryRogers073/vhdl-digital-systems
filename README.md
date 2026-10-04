@@ -9,7 +9,7 @@
 
 ---
 
-### ◆ Academic Attribution & Provenance
+### Academic Attribution & Provenance
 
 | Module / File | Description | Author / Provenance |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@
 
 ---
 
-## ★ Flagship Design: Multi-Floor Elevator Controller FSM (`elevator_fsm/`)
+## Flagship Design: Multi-Floor Elevator Controller FSM (`elevator_fsm/`)
 
 The primary system is a multi-floor elevator controller with request arbitration and door safety timing:
 
@@ -55,7 +55,7 @@ stateDiagram-v2
 
 ---
 
-## ◆ Repository Structure
+## Repository Structure
 
 ```text
 vhdl-digital-systems/
@@ -82,7 +82,7 @@ vhdl-digital-systems/
 
 ---
 
-## → Simulation & Synthesis Guide
+## Simulation & Synthesis Guide
 
 ### Compiling in Intel Quartus Prime
 1. Open **Intel Quartus Prime** (Lite or Standard Edition).
@@ -101,7 +101,7 @@ vhdl-digital-systems/
 
 ---
 
-## ★ Academic Information & Author
+## Academic Information & Author
 
 - **Author:** Harry Rogers
 - **Degree:** BEng (Hons) Electronic & Computer Engineering (First-Class Honours)
@@ -112,5 +112,5 @@ vhdl-digital-systems/
 
 ---
 
-## ◆ License
+## License
 This repository is licensed under the MIT License - see [LICENSE](LICENSE) for details. Coursework reference starter modules remain the intellectual property of their original designer (Chris Knight, University of Brighton).
